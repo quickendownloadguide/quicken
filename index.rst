@@ -4,13 +4,12 @@ Quicken Download & Installation Guide
 
 .. raw:: html
 
-    <div style="text-align: center; margin: 20px 0;">
+    <div style="text-align: center; margin: 30px 0;">
 
 .. image:: Button.png
    :alt: Download Quicken
    :target: #
-   :width: 200px
-   :height: 60px
+
 
 .. raw:: html
 
