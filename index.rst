@@ -2,6 +2,11 @@
 Quicken Download & Installation Guide
 =====================
 
+How to Download and Install Quicken: Step-by-Step Guide
+========================================================
+
+Quicken is a powerful personal finance tool that helps you manage expenses, track investments, and organize your financial life. If you've already purchased Quicken, follow this guide to download, install, and activate it easily.
+
 .. raw:: html
 
     <div style="text-align: center; margin: 30px 0;">
@@ -14,11 +19,6 @@ Quicken Download & Installation Guide
 .. raw:: html
 
     </div>
-
-How to Download and Install Quicken: Step-by-Step Guide
-========================================================
-
-Quicken is a powerful personal finance tool that helps you manage expenses, track investments, and organize your financial life. If you've already purchased Quicken, follow this guide to download, install, and activate it easily.
 
 1. Downloading Quicken After Purchase
 -------------------------------------
@@ -52,7 +52,7 @@ Complete the installation by clicking Next and selecting your preferences.
 Log in with your Quicken ID and enter the activation code (if required).
 
 3. Setting Up Your Quicken Account
------------------------------------
+----------------------------------
 
 After installation, set up your Quicken account:
 
